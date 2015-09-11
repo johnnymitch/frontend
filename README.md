@@ -14,3 +14,6 @@
 - http://learnlayout.com/flexbox.html
 - http://davidwalsh.name/css-vertical-center-flexbox
 - https://philipwalton.github.io/solved-by-flexbox/demos/vertical-centering/
+
+## Change text based on gelocation automagically
+- https://targetingmonkey.com/
