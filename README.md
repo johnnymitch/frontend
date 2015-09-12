@@ -17,3 +17,6 @@
 
 ## Change text based on gelocation automagically
 - https://targetingmonkey.com/
+
+## Social sharing buttons
+- http://socialsharekit.com
