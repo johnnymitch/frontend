@@ -23,8 +23,10 @@
 - 
 ## HTML5 video
 
-`<video width="100%" height="auto" autoplay loop>
+```
+<video width="100%" height="auto" autoplay loop>
 
   <source src="http://heyroomie.co/video/animation2.m4v" type="video/mp4" />
 
-</video>`
+</video>
+```
