@@ -20,7 +20,10 @@
 
 ## Social sharing buttons
 - http://socialsharekit.com
-- 
+
+## Countdown timer (CSS ONLY)
+- http://codepen.io/SitePoint/pen/MwNPVq
+
 ## HTML5 video
 
 ```
